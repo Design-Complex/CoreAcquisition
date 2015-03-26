@@ -1,0 +1,267 @@
+TCAApplicationTest
+v7
+r0
+t286840549.027067
+cCheck dependencies
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.h
+c000000004B670AE600000000000003CA
+t1265044198
+s970
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.h
+c000000004B685BDE00000000000002A5
+t1265130462
+s677
+i<CoreFoundation/CoreFoundation.h>
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.h
+c000000004B670AE600000000000001DD
+t1265044198
+s477
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.h
+c000000004B670AE6000000000000018E
+t1265044198
+s398
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.h
+c000000004B670AE600000000000001EF
+t1265044198
+s495
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/CoreAcquisition.h
+c000000004B670AED0000000000000265
+t1265044205
+s613
+i"CABase.h"
+i"CAObject.h"
+i"CAApplication.h"
+i"CAPlugin.h"
+i"CAPluginController.h"
+i"CADevicePlugin.h"
+i"CADevice.h"
+i"CADeviceController.h"
+i"CAPCIDevice.h"
+i"CAUSBDevice.h"
+i"CAHIDDevice.h"
+i"CAFireWireDevice.h"
+i"CADAQDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.h
+c000000004B670AED000000000000018E
+t1265044205
+s398
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.h
+c000000004B670AED00000000000001C8
+t1265044205
+s456
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.h
+c000000004B670AED00000000000001CF
+t1265044205
+s463
+i"CAPlugin.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.h
+c000000004B670AED00000000000001CE
+t1265044205
+s462
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.h
+c000000004B670AED00000000000001AC
+t1265044205
+s428
+i"CAUSBDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp
+c000000004B670AED0000000000000148
+t1265044205
+s328
+i"CoreAcquisition.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest.dSYM
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/Release/libCoreAcquisition.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004AD8377E0000000000776F30
+t1255683966
+s7827248
+
+N/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B319F080000000000000AF4
+t1261543176
+s2804
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004AD837F8000000000016E510
+t1255684088
+s1500432
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286840548#286840548#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.o /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286840358.934836
+e286840359.119451
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp286840358#286840359#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp4300903632#1070"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -mdynamic-no-pic -funroll-loops -msse3 -mssse3 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/CAApplicationTest.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.o /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286840358.936260
+e286840359.115126
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp286840358#286840359#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp4300903632#1072"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -faltivec -fasm-blocks -O3 -mdynamic-no-pic -funroll-loops -mtune=G5 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/CAApplicationTest.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.o /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286840358.933202
+e286840359.113439
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp286840358#286840359#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp4300903632#1076"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -mdynamic-no-pic -funroll-loops -msse3 -mssse3 -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/CAApplicationTest.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Test/CAApplicationTest.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.o0#
+
+CCreateUniversalBinary /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest normal "x86_64 i386 ppc"
+s286840541.890066
+e286840541.909240
+r1
+xCreateUniversalBinary
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@78"CreateUniversalBinary build/Release/CAApplicationTest normal "x86_64 i386 ppc"286840541#286840541#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/x86_64 i386 ppc4300903632#583"    cd /Network/Users/rob/Desktop/CoreAcquisition    /usr/bin/lipo -create /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest -output /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest0#
+
+CGenerateDSYMFile /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest.dSYM /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest
+s286840541.909352
+e286840542.010510
+r1
+xGenerateDSYMFile
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest.dSYM
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest
+lSLF07#2@85"GenerateDSYMFile build/Release/CAApplicationTest.dSYM build/Release/CAApplicationTest286840541#286840542#0(0"0(0#0#74"/Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest4300903632#240"    cd /Network/Users/rob/Desktop/CoreAcquisition    /Developer/usr/bin/dsymutil /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest -o /Network/Users/rob/Desktop/CoreAcquisition/build/Release/CAApplicationTest.dSYM0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest normal i386
+s286840541.832108
+e286840541.889978
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest
+xnormal
+xi386
+lSLF07#2@145"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest286840541#286840541#0(0"0(0#0#0"4300903632#1127"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest.LinkFileList -mmacosx-version-min=10.5 -lCoreAcquisition -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/i386/CAApplicationTest0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest normal ppc
+s286840541.832867
+e286840541.888343
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest
+xnormal
+xppc
+lSLF07#2@144"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest286840541#286840541#0(0"0(0#0#0"4300903632#1124"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch ppc -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest.LinkFileList -mmacosx-version-min=10.5 -lCoreAcquisition -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/ppc/CAApplicationTest0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest normal x86_64
+s286840541.831203
+e286840541.889239
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest
+xnormal
+xx86_64
+lSLF07#2@147"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest286840541#286840541#0(0"0(0#0#0"4300903632#1133"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest.LinkFileList -mmacosx-version-min=10.5 -lCoreAcquisition -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CAApplicationTest.build/Objects-normal/x86_64/CAApplicationTest0#
+

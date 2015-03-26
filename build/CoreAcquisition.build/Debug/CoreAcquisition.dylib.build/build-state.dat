@@ -1,0 +1,1981 @@
+TCoreAcquisition.dylib
+v7
+r0
+t287611694.861684
+cCheck dependencies
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib normal x86_64
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib normal i386
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+cLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib normal ppc
+cCreateUniversalBinary /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib normal "x86_64 i386 ppc"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B50402C00000000000000EE
+t1263550508
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B319F080000000000000AF4
+t1261543176
+s2804
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+c000000004B704E2900000000000008C5
+t1265651241
+s2245
+i"CAApplication.h"
+i"CAApplicationDelegate.h"
+i"CADeviceController.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.h
+c000000004B6B87B300000000000003CA
+t1265338291
+s970
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+c000000004B670AE600000000000006EC
+t1265044198
+s1772
+i"CAApplicationDelegate.h"
+i"CAApplication.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.h
+c000000004B670AE60000000000000343
+t1265044198
+s835
+i"CADelegate.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+c000000004B670AE600000000000000D0
+t1265044198
+s208
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.h
+c000000004B685BDE00000000000002A5
+t1265130462
+s677
+i<CoreFoundation/CoreFoundation.h>
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+c000000004B670AE6000000000000012A
+t1265044198
+s298
+i"CADelegate.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.h
+c000000004B670AE6000000000000019F
+t1265044198
+s415
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+c000000004B670AE60000000000000215
+t1265044198
+s533
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.h
+c000000004B670AE600000000000001DD
+t1265044198
+s477
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+c000000004B670AE6000000000000010B
+t1265044198
+s267
+i"CAPlugin.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.h
+c000000004B670AE6000000000000018E
+t1265044198
+s398
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+c000000004B6AFEDF0000000000000147
+t1265303263
+s327
+i"CAPluginController.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.h
+c000000004B6AFEDD00000000000001D9
+t1265303261
+s473
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+c000000004B670AED000000000000010B
+t1265044205
+s267
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.h
+c000000004B71E7CD00000000000001EC
+t1265756109
+s492
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+c000000004B704DE2000000000000069E
+t1265651170
+s1694
+i"CADeviceController.h"
+i<mach/mach.h>
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.h
+c000000004B704D5E000000000000029D
+t1265651038
+s669
+i"CADevice.h"
+i<IOKit/IOKitLib.h>
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+c000000004B670AED000000000000012F
+t1265044205
+s303
+i"CADevicePlugin.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.h
+c000000004B670AED00000000000001CF
+t1265044205
+s463
+i"CAPlugin.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+c000000004B670AED000000000000013B
+t1265044205
+s315
+i"CAFireWireDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.h
+c000000004B670AED00000000000001CE
+t1265044205
+s462
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+c000000004B670AED000000000000011D
+t1265044205
+s285
+i"CAPCIDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+c000000004B670AED000000000000011D
+t1265044205
+s285
+i"CAUSBDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+c000000004B670AED000000000000011D
+t1265044205
+s285
+i"CADAQDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.h
+c000000004B670AED00000000000001A6
+t1265044205
+s422
+i"CADevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+c000000004B670AED0000000000000135
+t1265044205
+s309
+i"CALabJackDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.h
+c000000004B670AED00000000000001CC
+t1265044205
+s460
+i"CADAQDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+c000000004B670AED0000000000000117
+t1265044205
+s279
+i"CANIDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.h
+c000000004B670AED00000000000001A4
+t1265044205
+s420
+i"CADAQDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+c000000004B670AED000000000000011D
+t1265044205
+s285
+i"CAHIDDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.h
+c000000004B670AED00000000000001AC
+t1265044205
+s428
+i"CAUSBDevice.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o
+t1265918905
+s16528
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o
+t1265650791
+s12492
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o
+t1265148636
+s152
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o
+t1265918904
+s6028
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o
+t1265148636
+s4100
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o
+t1265918904
+s5604
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o
+t1265918904
+s13960
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o
+t1265148636
+s5972
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o
+t1265918904
+s6192
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o
+t1265918904
+s6272
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o
+t1265918904
+s6524
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o
+t1265918904
+s6332
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o
+t1265148636
+s5984
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o
+t1265918904
+s5972
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o
+t1265148636
+s5412
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o
+t1265650760
+s5884
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o
+t1265918904
+s5972
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.LinkFileList
+c000000004B68A2DA0000000000000951
+t1265148634
+s2385
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib
+t1265918905
+s53244
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplication.o
+t1265918905
+s15924
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplicationDelegate.o
+t1265650874
+s11280
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CABase.o
+t1265148637
+s288
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADAQDevice.o
+t1265918905
+s5248
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADelegate.o
+t1265148637
+s3840
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevice.o
+t1265918905
+s5032
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADeviceController.o
+t1265918905
+s14584
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevicePlugin.o
+t1265148637
+s5288
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAFireWireDevice.o
+t1265918905
+s5380
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAHIDDevice.o
+t1265918905
+s5276
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CALabJackDevice.o
+t1265918905
+s5492
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CANIDevice.o
+t1265918905
+s5340
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAObject.o
+t1265148637
+s5508
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPCIDevice.o
+t1265918905
+s5184
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPlugin.o
+t1265148637
+s4952
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPluginController.o
+t1265650791
+s5360
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAUSBDevice.o
+t1265918905
+s5184
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CoreAcquisition.LinkFileList
+c000000004B68A2DA0000000000000940
+t1265148634
+s2368
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib
+t1265918905
+s51560
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplication.o
+t1265918904
+s17716
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplicationDelegate.o
+t1265650760
+s13280
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CABase.o
+t1265148635
+s184
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADAQDevice.o
+t1265918904
+s6540
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADelegate.o
+t1265148636
+s5220
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevice.o
+t1265918904
+s6136
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADeviceController.o
+t1265918904
+s15228
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevicePlugin.o
+t1265148635
+s6500
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAFireWireDevice.o
+t1265918904
+s6720
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAHIDDevice.o
+t1265918903
+s6776
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CALabJackDevice.o
+t1265918903
+s7036
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CANIDevice.o
+t1265918903
+s6860
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAObject.o
+t1265148635
+s6856
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPCIDevice.o
+t1265918903
+s6476
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPlugin.o
+t1265148635
+s5944
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPluginController.o
+t1265650760
+s6392
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAUSBDevice.o
+t1265918903
+s6476
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CoreAcquisition.LinkFileList
+c000000004B68A2DA0000000000000973
+t1265148634
+s2419
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib
+t1265918904
+s53696
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+t1265918905
+s166248
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib
+t1265147452
+s148532
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004AD8377E0000000000776F30
+t1255683966
+s7827248
+
+N/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B319F080000000000000AF4
+t1261543176
+s2804
+
+N/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004B447B1C0000000000012048
+t1262779164
+s73800
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004AD837F8000000000016E510
+t1255684088
+s1500432
+
+N/System/Library/Frameworks/Kernel.framework/Kernel
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+c000000004B663AC70000000000000808
+t1264990919
+s2056
+i"CAApplication.h"
+i"CAApplicationDelegate.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.h
+c000000004B66396000000000000003CA
+t1264990560
+s970
+i"CAObject.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+c000000004B6639EB00000000000006EC
+t1264990699
+s1772
+i"CAApplicationDelegate.h"
+i"CAApplication.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.h
+c000000004B66350A0000000000000343
+t1264989450
+s835
+i"CADelegate.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+c000000004B6612A100000000000000D0
+t1264980641
+s208
+i"CABase.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CABase.h
+c000000004B6612A10000000000000299
+t1264980641
+s665
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+c000000004B663529000000000000012A
+t1264989481
+s298
+i"CADelegate.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.h
+c000000004B663529000000000000019F
+t1264989481
+s415
+i"CABase.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+c000000004B6635C20000000000000215
+t1264989634
+s533
+i"CAObject.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAObject.h
+c000000004B6635C300000000000001DD
+t1264989635
+s477
+i"CABase.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+c000000004B6612A1000000000000010B
+t1264980641
+s267
+i"CAPlugin.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.h
+c000000004B6612A1000000000000018E
+t1264980641
+s398
+i"CAObject.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+c000000004B6612A10000000000000147
+t1264980641
+s327
+i"CAPluginController.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.h
+c000000004B6612A100000000000001EF
+t1264980641
+s495
+i"CAObject.h"
+
+N/Users/rob/Desktop/CoreAcquisition/CoreAcquisition.cpp
+c000000004B6611630000000000000148
+t1264980323
+s328
+i"CoreAcquisition.h"
+
+N/Users/rob/Desktop/CoreAcquisition/CoreAcquisition.h
+c000000004B66116300000000000001B0
+t1264980323
+s432
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+c000000004B6612A1000000000000010B
+t1264980641
+s267
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.h
+c000000004B6612A1000000000000018E
+t1264980641
+s398
+i"CAObject.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+c000000004B6612A10000000000000147
+t1264980641
+s327
+i"CADeviceController.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.h
+c000000004B66134500000000000001C8
+t1264980805
+s456
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+c000000004B6612A1000000000000012F
+t1264980641
+s303
+i"CADevicePlugin.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.h
+c000000004B6612A100000000000001CF
+t1264980641
+s463
+i"CAPlugin.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+c000000004B6612A1000000000000013B
+t1264980641
+s315
+i"CAFireWireDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.h
+c000000004B6612A100000000000001CE
+t1264980641
+s462
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+c000000004B6612A1000000000000011D
+t1264980641
+s285
+i"CAPCIDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.h
+c000000004B6612A100000000000001A6
+t1264980641
+s422
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+c000000004B6612A1000000000000011D
+t1264980641
+s285
+i"CAUSBDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.h
+c000000004B6612A100000000000001A6
+t1264980641
+s422
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+c000000004B6612A1000000000000011D
+t1264980641
+s285
+i"CADAQDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.h
+c000000004B6612A100000000000001A6
+t1264980641
+s422
+i"CADevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+c000000004B6612A10000000000000135
+t1264980641
+s309
+i"CALabJackDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.h
+c000000004B6612A100000000000001CC
+t1264980641
+s460
+i"CADAQDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+c000000004B6612A10000000000000117
+t1264980641
+s279
+i"CANIDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.h
+c000000004B6612A100000000000001A4
+t1264980641
+s420
+i"CADAQDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+c000000004B6612A1000000000000011D
+t1264980641
+s285
+i"CAHIDDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.h
+c000000004B6612A100000000000001AC
+t1264980641
+s428
+i"CAUSBDevice.h"
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o
+t1264990920
+s15000
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o
+t1264990699
+s13064
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o
+t1264980643
+s2900
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o
+t1264989637
+s7540
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o
+t1264989482
+s5808
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o
+t1264989637
+s7140
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o
+t1264989637
+s7744
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o
+t1264989637
+s7600
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o
+t1264989637
+s7664
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o
+t1264989636
+s7792
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o
+t1264989636
+s7992
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o
+t1264989636
+s7844
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o
+t1264989636
+s7612
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o
+t1264989636
+s7484
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o
+t1264989636
+s7092
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o
+t1264989636
+s7472
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o
+t1264989636
+s7484
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.LinkFileList
+c000000004B66325700000000000008C9
+t1264988759
+s2249
+
+N/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.o
+t2
+s0
+
+N/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+t1264990920
+s42744
+
+N/tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib
+t1265147373
+s148532
+
+N/usr/include/mach/mach.h
+c000000004AC3200B0000000000001057
+t1254301707
+s4183
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287611694#287611694#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.907778
+e287611666.218402
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@73"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp287611665#287611666#0(0"0(0#0#65"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp4300903632#1038"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o /Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286683720.236952
+e286683720.281875
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp286683720#286683720#0(0"0(0#0#57"/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp4300885448#1351"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplication.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287343567.167461
+e287343567.366472
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp287343567#287343567#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1054"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o /Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286683525.979675
+e286683525.980810
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp286683525#286683525#0(0"0(0#0#65"/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300885448#1367"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286841412.609196
+e286841412.781068
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp286841412#286841412#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp4300903632#1024"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o /Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286673443.308835
+e286673443.513490
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp286673443#286673443#0(0"0(0#0#50"/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp4300885448#1337"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CABase.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737024.205047
+e286737024.354283
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp286737024#286737024#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp4300903632#1442"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.704635
+e287611665.907577
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp287611665#287611665#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp4300903632#1041"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682437.266140
+e286682437.474455
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp286682437#286682437#0(0"0(0#0#62"/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp4300885448#1354"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADAQDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286841412.775000
+e286841412.950490
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286841412#286841412#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1032"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o /Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682282.170966
+e286682282.349902
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286682282#286682282#0(0"0(0#0#54"/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300885448#1345"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737024.036461
+e286737024.212642
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp286737024#286737024#0(0"0(0#0#63"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp4300903632#1432"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.700999
+e287611665.914172
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp287611665#287611665#0(0"0(0#0#63"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp4300903632#1031"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o /Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682437.085166
+e286682437.278569
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp286682437#286682437#0(0"0(0#0#55"/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp4300885448#1344"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737024.033034
+e286737024.204934
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp286737024#286737024#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp4300903632#1452"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.697136
+e287611666.067253
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp287611665#287611666#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp4300903632#1051"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o /Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682437.063872
+e286682437.266022
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp286682437#286682437#0(0"0(0#0#65"/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp4300885448#1364"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADeviceController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737024.029475
+e286737024.215413
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp286737024#286737024#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp4300903632#1444"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286841412.442888
+e286841412.609062
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp286841412#286841412#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp4300903632#1043"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o /Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.849688
+e286682437.085047
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp286682436#286682437#0(0"0(0#0#61"/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp4300885448#1356"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CADevicePlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737024.023874
+e286737024.213674
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp286737024#286737024#0(0"0(0#0#71"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp7596580142649864192#1448"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.685882
+e287611665.910368
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp287611665#287611665#0(0"0(0#0#71"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp4300903632#1047"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.788654
+e286682437.063749
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp286682436#286682437#0(0"0(0#0#63"/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp4300885448#1360"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAFireWireDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737023.835113
+e286737024.032943
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp286737023#286737024#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp4300903632#1442"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.514977
+e287611665.704531
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp287611665#287611665#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp4300903632#1041"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.595461
+e286682436.849573
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp286682436#286682436#0(0"0(0#0#62"/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp4300885448#1354"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAHIDDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737023.833822
+e286737024.036347
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp286737023#286737024#0(0"0(0#0#82"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp4300903632#1458"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.487416
+e287611665.696907
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@90"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp287611665#287611665#0(0"0(0#0#82"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp4300903632#1057"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.563641
+e286682436.788535
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp286682436#286682436#0(0"0(0#0#74"/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp4300885448#1370"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CALabJackDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s286737023.832536
+e286737024.023742
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp286737023#286737024#0(0"0(0#0#90"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp4300903632#1463"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.461940
+e287611665.685402
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@98"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp287611665#287611665#0(0"0(0#0#90"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp4300903632#1062"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o "/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.386836
+e286682436.595338
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp286682436#286682436#0(0"0(0#0#82"/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp4300885448#1375"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c "/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CANIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286841412.235561
+e286841412.410046
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp286841412#286841412#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp4300903632#1028"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o /Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.363146
+e286682436.563528
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp286682436#286682436#0(0"0(0#0#52"/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp4300885448#1341"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAObject.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286737023.825245
+e286737024.029354
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp286737023#286737024#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp7596580142649864192#1438"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.311893
+e287611665.514851
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp287611665#287611665#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp4300903632#1037"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.177206
+e286682436.386710
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp286682436#286682436#0(0"0(0#0#58"/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp4300885448#1350"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPCIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286841412.096323
+e286841412.264479
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp286841412#286841412#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp4300903632#1028"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o /Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682436.148654
+e286682436.363028
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp286682436#286682436#0(0"0(0#0#52"/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp4300885448#1341"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287343536.588654
+e287343536.826015
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp287343536#287343536#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp7596580142649864192#1048"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o /Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682435.922232
+e286682436.148348
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o
+x/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp286682435#286682436#0(0"0(0#0#62"/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp4300885448#1361"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAPluginController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s287611665.242664
+e287611665.487326
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp287611665#287611665#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp4300903632#1037"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o /Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s286682435.921124
+e286682436.177087
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o
+x/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp286682435#286682436#0(0"0(0#0#58"/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp4300885448#1350"    cd /Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-generated-files.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-own-target-headers.hmap -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-all-target-headers.hmap -iquote /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition-project-headers.hmap -F/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/i386 -I/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp -o /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CAUSBDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.o /Users/rob/Desktop/CoreAcquisition/CoreAcquisition.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.540023
+e287611666.772422
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplication.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@73"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp287611666#287611666#0(0"0(0#0#65"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp4300903632#1030"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplication.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287343650.173816
+e287343650.374238
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp287343650#287343650#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1046"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286841413.421079
+e286841413.619186
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CABase.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp286841413#286841413#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp4300903632#1016"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CABase.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.373213
+e287611666.666937
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADAQDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp287611666#287611666#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp4300903632#1033"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADAQDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286841413.634453
+e286841413.818849
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286841413#286841413#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1024"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.326408
+e287611666.539830
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp287611666#287611666#0(0"0(0#0#63"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp4300903632#1023"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.324216
+e287611666.675907
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADeviceController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp287611666#287611666#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp4300903632#1043"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADeviceController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286841413.225308
+e286841413.410156
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevicePlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp286841413#286841413#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp4300903632#1035"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CADevicePlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.291074
+e287611666.553544
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAFireWireDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp287611666#287611666#0(0"0(0#0#71"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp4300903632#1039"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAFireWireDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.154309
+e287611666.373109
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAHIDDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp287611666#287611666#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp4300903632#1033"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAHIDDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.129299
+e287611666.326328
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CALabJackDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@90"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp287611666#287611666#0(0"0(0#0#82"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp4300903632#1049"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CALabJackDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal ppc c++ com.apple.compilers.llvmgcc42
+s287611666.067463
+e287611666.290962
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CANIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@98"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp287611666#287611666#0(0"0(0#0#90"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp4300903632#1054"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CANIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286841413.000025
+e286841413.188868
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAObject.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp286841413#286841413#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp4300903632#1020"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAObject.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611665.914427
+e287611666.129195
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPCIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp287611665#287611666#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp4300903632#1029"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPCIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286841412.947992
+e286841413.189524
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp286841412#286841413#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp4300903632#1020"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287343567.366952
+e287343567.541801
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPluginController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp287343567#287343567#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp4300903632#1040"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAPluginController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s287611665.910623
+e287611666.154195
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAUSBDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp287611665#287611666#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp4300903632#1029"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CAUSBDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplication.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611665.120103
+e287611665.485351
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplication.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@73"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp287611665#287611665#0(0"0(0#0#65"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp4300903632#1044"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplication.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287343536.298775
+e287343536.671527
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp287343536#287343536#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1060"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CABase.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286841411.874389
+e286841412.024439
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CABase.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp286841411#286841412#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp4300903632#1030"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CABase.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADAQDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611665.117209
+e287611665.311588
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADAQDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp287611665#287611665#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp4300903632#1047"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/CADAQDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADAQDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286841412.024558
+e286841412.202494
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286841412#286841412#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1038"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.964008
+e287611665.242371
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp287611664#287611665#0(0"0(0#0#63"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp4300903632#1037"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADeviceController.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.940844
+e287611665.461713
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADeviceController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp287611664#287611665#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp4300903632#1057"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADeviceController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADeviceController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevicePlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286841411.685191
+e286841411.914897
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevicePlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp286841411#286841411#0(0"0(0#0#69"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp4300903632#1049"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CADevicePlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CADevicePlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAFireWireDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.938131
+e287611665.119886
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAFireWireDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp287611664#287611665#0(0"0(0#0#71"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp4300903632#1053"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAFireWireDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAFireWireDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAHIDDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.934059
+e287611665.117079
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAHIDDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp287611664#287611665#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp7596580142649864192#1047"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/HID/CAHIDDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAHIDDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CALabJackDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.135781
+e287611664.938003
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CALabJackDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@90"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp287611664#287611664#0(0"0(0#0#82"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp4300903632#1063"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/LabJack/CALabJackDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CALabJackDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CANIDevice.o "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.134993
+e287611664.933931
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CANIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@98"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp287611664#287611664#0(0"0(0#0#90"/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp4300903632#1068"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c "/Network/Users/rob/Desktop/CoreAcquisition/Devices/DAQ/National Instruments/CANIDevice.cpp" -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CANIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAObject.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286841411.501763
+e286841411.680863
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAObject.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp286841411#286841411#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp4300903632#1034"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAObject.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPCIDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.134054
+e287611664.963843
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPCIDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp287611664#287611664#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp4300903632#1043"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAPCIDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPCIDevice.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPlugin.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286841411.305153
+e286841411.501618
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPlugin.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp286841411#286841411#0(0"0(0#0#60"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp4300903632#1034"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPlugin.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPlugin.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPluginController.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287343536.288191
+e287343536.588172
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPluginController.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp287343536#287343536#0(0"0(0#0#70"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp7596580142649864192#1054"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAPluginController.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAPluginController.o0#
+
+CCompileC build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAUSBDevice.o /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s287611664.129943
+e287611664.940667
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAUSBDevice.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp287611664#287611664#0(0"0(0#0#66"/Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp4913253949281104896#1043"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -pg -mfix-and-continue -funroll-loops -msse3 -mssse3 -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/CoreAcquisition.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -I/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Devices/CAUSBDevice.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CAUSBDevice.o0#
+
+CCreateUniversalBinary /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib normal "x86_64 i386 ppc"
+s287611666.853542
+e287611666.886998
+r1
+xCreateUniversalBinary
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@83"CreateUniversalBinary build/Debug/libCoreAcquisition.dylib normal "x86_64 i386 ppc"287611666#287611666#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/x86_64 i386 ppc4300903632#615"    cd /Network/Users/rob/Desktop/CoreAcquisition    /usr/bin/lipo -create /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib -output /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib0#
+
+CCreateUniversalBinary /Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib normal "x86_64 i386 ppc"
+s286840228.975632
+e286840229.005337
+r1
+xCreateUniversalBinary
+x/Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/UninstalledProducts/libCoreAcquisition.dylib normal "x86_64 i386 ppc"286840228#286840229#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/x86_64 i386 ppc4300903632#629"    cd /Network/Users/rob/Desktop/CoreAcquisition    /usr/bin/lipo -create /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib -output /Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib0#
+
+CCreateUniversalBinary /tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib normal "x86_64 i386 ppc"
+s286840173.388844
+e286840173.396332
+r1
+xCreateUniversalBinary
+x/tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@110"CreateUniversalBinary /tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib normal "x86_64 i386 ppc"286840173#286840173#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/x86_64 i386 ppc4300903632#599"    cd /Network/Users/rob/Desktop/CoreAcquisition    /usr/bin/lipo -create /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib -output /tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib normal i386
+s287611666.218505
+e287611666.323930
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib
+xnormal
+xi386
+lSLF07#2@154"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib287611666#287611666#0(0"0(0#0#0"4300903632#887"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch i386 -dynamiclib -L/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -L. -LBase -LDevices -LTest -LDevices/DAQ -LDevices/HID -LDevices/DAQ/LabJack "-LDevices/DAQ/National Instruments" -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.LinkFileList -install_name /usr/local/lib/libCoreAcquisition.dylib -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -prebind -single_module -compatibility_version 1 -current_version 1 -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/libCoreAcquisition.dylib0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib normal ppc
+s287611666.772540
+e287611666.853439
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib
+xnormal
+xppc
+lSLF07#2@153"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib287611666#287611666#0(0"0(0#0#0"4300903632#884"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch ppc -dynamiclib -L/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -L. -LBase -LDevices -LTest -LDevices/DAQ -LDevices/HID -LDevices/DAQ/LabJack "-LDevices/DAQ/National Instruments" -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/CoreAcquisition.LinkFileList -install_name /usr/local/lib/libCoreAcquisition.dylib -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -prebind -single_module -compatibility_version 1 -current_version 1 -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/ppc/libCoreAcquisition.dylib0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib normal x86_64
+s287611665.485481
+e287611665.700876
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib
+xnormal
+xx86_64
+lSLF07#2@156"Link /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib287611665#287611665#0(0"0(0#0#0"4300903632#893"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -dynamiclib -L/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -L. -LBase -LDevices -LTest -LDevices/DAQ -LDevices/HID -LDevices/DAQ/LabJack "-LDevices/DAQ/National Instruments" -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/CoreAcquisition.LinkFileList -install_name /usr/local/lib/libCoreAcquisition.dylib -mmacosx-version-min=10.5 -framework CoreFoundation -framework IOKit -prebind -single_module -compatibility_version 1 -current_version 1 -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/x86_64/libCoreAcquisition.dylib0#
+
+CLd /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib normal i386
+s286737024.354395
+e286737024.434663
+r1
+xLd
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+xnormal
+xi386
+lSLF07#2@84"Link /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib286737024#286737024#0(0"0(0#0#0"4300903632#621"    cd /Network/Users/rob/Desktop/CoreAcquisition    /Developer/usr/bin/g++-4.2 -arch i386 -dynamiclib -L/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -F/Network/Users/rob/Desktop/CoreAcquisition/build/Debug -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.LinkFileList -install_name /usr/local/lib/libCoreAcquisition.dylib -framework CoreFoundation -framework IOKit -single_module -compatibility_version 1 -current_version 1 -o /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib0#
+
+CLd /Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib normal i386
+s286683720.282162
+e286683720.318331
+r1
+xLd
+x/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+xnormal
+xi386
+lSLF07#2@76"Link /Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib286683720#286683720#0(0"0(0#0#0"4300885448#581"    cd /Users/rob/Desktop/CoreAcquisition    /Developer/usr/bin/g++-4.2 -arch i386 -dynamiclib -L/Users/rob/Desktop/CoreAcquisition/build/Debug -F/Users/rob/Desktop/CoreAcquisition/build/Debug -filelist /Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Debug/CoreAcquisition.dylib.build/Objects-normal/i386/CoreAcquisition.LinkFileList -install_name /usr/local/lib/libCoreAcquisition.dylib -framework CoreFoundation -framework IOKit -single_module -compatibility_version 1 -current_version 1 -o /Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib0#
+
+CSymLink /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib
+s286840226.512702
+e286840226.517807
+r1
+xSymLink
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+x/Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib
+lSLF07#2@87"Process /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib286840226#286840226#0(0"0(0#0#0"4300903632#240"    cd /Network/Users/rob/Desktop/CoreAcquisition    /bin/ln -sf /Network/Users/rob/Desktop/CoreAcquisition/build/UninstalledProducts/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib0#
+
+CSymLink /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib /tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib
+s286839824.372698
+e286839824.377522
+r1
+xSymLink
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib
+x/tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib
+lSLF07#2@87"Process /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib286839824#286839824#0(0"0(0#0#0"4300903632#210"    cd /Network/Users/rob/Desktop/CoreAcquisition    /bin/ln -sf /tmp/CoreAcquisition.dst/usr/local/lib/libCoreAcquisition.dylib /Network/Users/rob/Desktop/CoreAcquisition/build/Debug/libCoreAcquisition.dylib0#
+

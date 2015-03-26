@@ -1,0 +1,241 @@
+TCoreAcquisition
+v7
+r0
+t286840548.978587
+cCheck dependencies
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplication.h
+c000000004B670AE600000000000003CA
+t1265044198
+s970
+i"CAObject.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+c000000004B670AE600000000000006EC
+t1265044198
+s1772
+i"CAApplicationDelegate.h"
+i"CAApplication.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.h
+c000000004B670AE60000000000000343
+t1265044198
+s835
+i"CADelegate.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CABase.h
+c000000004B685BDE00000000000002A5
+t1265130462
+s677
+i<CoreFoundation/CoreFoundation.h>
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+c000000004B670AE6000000000000012A
+t1265044198
+s298
+i"CADelegate.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.h
+c000000004B670AE6000000000000019F
+t1265044198
+s415
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/Base/CAObject.h
+c000000004B670AE600000000000001DD
+t1265044198
+s477
+i"CABase.h"
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CAApplicationDelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CADelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CoreAcquisition.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CAApplicationDelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CADelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CoreAcquisition.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CAApplicationDelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CADelegate.o
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CoreAcquisition.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a
+t2
+s0
+
+N/Network/Users/rob/Desktop/CoreAcquisition/build/Release/libCoreAcquisition.a
+t2
+s0
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004AD8377E0000000000776F30
+t1255683966
+s7827248
+
+N/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B319F080000000000000AF4
+t1261543176
+s2804
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004AD837F8000000000016E510
+t1255684088
+s1500432
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286840548#286840548#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286840358.427101
+e286840358.632017
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp286840358#286840358#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1457"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -funroll-loops -msse3 -mssse3 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s286840358.428916
+e286840358.606054
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286840358#286840358#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1435"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -funroll-loops -msse3 -mssse3 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/i386 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286840358.602539
+e286840358.783678
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp286840358#286840358#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1459"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -faltivec -fasm-blocks -O3 -funroll-loops -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal ppc c++ com.apple.compilers.llvmgcc42
+s286840358.606148
+e286840358.772264
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286840358#286840358#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1437"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -faltivec -fasm-blocks -O3 -funroll-loops -mtune=G5 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/ppc -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CADelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CAApplicationDelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286840358.423728
+e286840358.626271
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CAApplicationDelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp286840358#286840358#0(0"0(0#0#73"/Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp4300903632#1463"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -funroll-loops -msse3 -mssse3 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CAApplicationDelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CAApplicationDelegate.o0#
+
+CCompileC build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CADelegate.o /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s286840358.425376
+e286840358.602255
+r1
+xCompileC
+xbuild/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CADelegate.o
+x/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@70"Compile /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp286840358#286840358#0(0"0(0#0#62"/Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp4300903632#1441"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fcheck-new -fpascal-strings -fasm-blocks -O3 -funroll-loops -msse3 -mssse3 -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-generated-files.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-own-target-headers.hmap -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-all-target-headers.hmap -iquote /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/CoreAcquisition-project-headers.hmap -F/Network/Users/rob/Desktop/CoreAcquisition/build/Release -I/Network/Users/rob/Desktop/CoreAcquisition/build/Release/include -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources/x86_64 -I/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/DerivedSources -c /Network/Users/rob/Desktop/CoreAcquisition/Base/CADelegate.cpp -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CADelegate.o0#
+
+CCreateUniversalBinary /Network/Users/rob/Desktop/CoreAcquisition/build/Release/libCoreAcquisition.a normal "x86_64 i386 ppc"
+s286840541.752535
+e286840541.782333
+r1
+xCreateUniversalBinary
+x/Network/Users/rob/Desktop/CoreAcquisition/build/Release/libCoreAcquisition.a
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@81"CreateUniversalBinary build/Release/libCoreAcquisition.a normal "x86_64 i386 ppc"286840541#286840541#0(0"0(0#0#58"/Network/Users/rob/Desktop/CoreAcquisition/x86_64 i386 ppc4300903632#597"    cd /Network/Users/rob/Desktop/CoreAcquisition    /Developer/usr/bin/libtool -static /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a -o /Network/Users/rob/Desktop/CoreAcquisition/build/Release/libCoreAcquisition.a0#
+
+CLibtool /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a normal i386
+s286840541.721981
+e286840541.750412
+r1
+xLibtool
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a
+xnormal
+xi386
+lSLF07#2@118"Libtool build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a normal i386286840541#286840541#0(0"0(0#0#0"4300903632#1029"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/libtool -static -arch_only i386 -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/CoreAcquisition.LinkFileList -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/i386/libCoreAcquisition.a0#
+
+CLibtool /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a normal ppc
+s286840541.723874
+e286840541.752427
+r1
+xLibtool
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a
+xnormal
+xppc
+lSLF07#2@116"Libtool build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a normal ppc286840541#286840541#0(0"0(0#0#0"4300903632#1026"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/libtool -static -arch_only ppc -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/CoreAcquisition.LinkFileList -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/ppc/libCoreAcquisition.a0#
+
+CLibtool /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a normal x86_64
+s286840541.720954
+e286840541.748840
+r1
+xLibtool
+x/Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a
+xnormal
+xx86_64
+lSLF07#2@122"Libtool build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a normal x86_64286840541#286840541#0(0"0(0#0#0"4300903632#1035"    cd /Network/Users/rob/Desktop/CoreAcquisition    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/libtool -static -arch_only x86_64 -L/Network/Users/rob/Desktop/CoreAcquisition/build/Release -Lbuild/Debug -Lbuild/Release -Lbuild/Release/CAApplicationTest.dSYM -Lbuild/Release/libCoreAcquisition.dylib.dSYM -Lbuild/Release/CAApplicationTest.dSYM/Contents -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources -Lbuild/Release/CAApplicationTest.dSYM/Contents/Resources/DWARF -Lbuild/Release/libCoreAcquisition.dylib.dSYM/Contents/Resources/DWARF -filelist /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/CoreAcquisition.LinkFileList -framework CoreFoundation -framework IOKit -o /Network/Users/rob/Desktop/CoreAcquisition/build/CoreAcquisition.build/Release/CoreAcquisition.build/Objects-normal/x86_64/libCoreAcquisition.a0#
+

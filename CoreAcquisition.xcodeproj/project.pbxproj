@@ -1,0 +1,761 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		D44580A21116436700D87D10 /* CoreAcquisition.Libraries */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = D44580AA111643A900D87D10 /* Build configuration list for PBXAggregateTarget "CoreAcquisition.Libraries" */;
+			buildPhases = (
+			);
+			dependencies = (
+				D44580A61116436D00D87D10 /* PBXTargetDependency */,
+				D44580A81116436D00D87D10 /* PBXTargetDependency */,
+			);
+			name = CoreAcquisition.Libraries;
+			productName = CoreAcquisition.Libraries;
+		};
+		D44584BF1116498D00D87D10 /* CATestFiles */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = D44584C2111649AB00D87D10 /* Build configuration list for PBXAggregateTarget "CATestFiles" */;
+			buildPhases = (
+			);
+			dependencies = (
+				D44584D0111649D800D87D10 /* PBXTargetDependency */,
+				D44584CE111649D000D87D10 /* PBXTargetDependency */,
+			);
+			name = CATestFiles;
+			productName = CATestFiles;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		D411FEBB111664CB0056A1BE /* CAApplicationDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D411FEB9111664CB0056A1BE /* CAApplicationDelegate.h */; };
+		D411FEBC111664CB0056A1BE /* CAApplicationDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D411FEBA111664CB0056A1BE /* CAApplicationDelegate.cpp */; };
+		D411FEBD111664CB0056A1BE /* CAApplicationDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D411FEB9111664CB0056A1BE /* CAApplicationDelegate.h */; };
+		D411FEBE111664CB0056A1BE /* CAApplicationDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D411FEBA111664CB0056A1BE /* CAApplicationDelegate.cpp */; };
+		D411FEEE111668E50056A1BE /* CADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D411FEEC111668E50056A1BE /* CADelegate.h */; };
+		D411FEEF111668E50056A1BE /* CADelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D411FEED111668E50056A1BE /* CADelegate.cpp */; };
+		D411FEF0111668E50056A1BE /* CADelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = D411FEEC111668E50056A1BE /* CADelegate.h */; };
+		D411FEF1111668E50056A1BE /* CADelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D411FEED111668E50056A1BE /* CADelegate.cpp */; };
+		D42800631118D73A00B81CE8 /* libCoreAcquisition.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D44580901116431400D87D10 /* libCoreAcquisition.dylib */; };
+		D44580951116432600D87D10 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806711163F4B00D87D10 /* CoreFoundation.framework */; };
+		D44580961116432600D87D10 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806A11163F5E00D87D10 /* IOKit.framework */; };
+		D445809F1116435000D87D10 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806711163F4B00D87D10 /* CoreFoundation.framework */; };
+		D44580A01116435000D87D10 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806A11163F5E00D87D10 /* IOKit.framework */; };
+		D44580C01116453200D87D10 /* CAUSBDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D44580801116417C00D87D10 /* CAUSBDevice.h */; };
+		D44580C11116453300D87D10 /* CAUSBDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44580811116417C00D87D10 /* CAUSBDevice.cpp */; };
+		D44580C21116453300D87D10 /* CAPluginController.h in Headers */ = {isa = PBXBuildFile; fileRef = D44580881116424500D87D10 /* CAPluginController.h */; };
+		D44580C31116453400D87D10 /* CAPluginController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44580891116424500D87D10 /* CAPluginController.cpp */; };
+		D44580C41116453400D87D10 /* CAPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = D44580861116422500D87D10 /* CAPlugin.h */; };
+		D44580C51116453500D87D10 /* CAPlugin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44580871116422500D87D10 /* CAPlugin.cpp */; };
+		D44580C61116453600D87D10 /* CAPCIDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D445807E1116415700D87D10 /* CAPCIDevice.h */; };
+		D44580C71116453600D87D10 /* CAPCIDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445807F1116415700D87D10 /* CAPCIDevice.cpp */; };
+		D44580C81116453600D87D10 /* CAObject.h in Headers */ = {isa = PBXBuildFile; fileRef = D445807011163FCC00D87D10 /* CAObject.h */; };
+		D44580C91116453700D87D10 /* CAObject.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445807111163FCC00D87D10 /* CAObject.cpp */; };
+		D44580CA1116453800D87D10 /* CANIDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D445807C1116413000D87D10 /* CANIDevice.h */; };
+		D44580CB1116453A00D87D10 /* CANIDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445807D1116413000D87D10 /* CANIDevice.cpp */; };
+		D44580CC1116453B00D87D10 /* CALabJackDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D445807A1116411000D87D10 /* CALabJackDevice.h */; };
+		D44580CD1116453B00D87D10 /* CALabJackDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445807B1116411000D87D10 /* CALabJackDevice.cpp */; };
+		D44580CE1116453C00D87D10 /* CAHIDDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D4458076111640B200D87D10 /* CAHIDDevice.h */; };
+		D44580CF1116453C00D87D10 /* CAHIDDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4458077111640B200D87D10 /* CAHIDDevice.cpp */; };
+		D44580D01116453D00D87D10 /* CAFireWireDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D4458082111641B900D87D10 /* CAFireWireDevice.h */; };
+		D44580D11116453D00D87D10 /* CAFireWireDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4458083111641B900D87D10 /* CAFireWireDevice.cpp */; };
+		D44580D21116453E00D87D10 /* CADevicePlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = D445808A1116426A00D87D10 /* CADevicePlugin.h */; };
+		D44580D31116453E00D87D10 /* CADevicePlugin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445808B1116426A00D87D10 /* CADevicePlugin.cpp */; };
+		D44580D41116453F00D87D10 /* CADeviceController.h in Headers */ = {isa = PBXBuildFile; fileRef = D4458084111641F000D87D10 /* CADeviceController.h */; };
+		D44580D51116454100D87D10 /* CADeviceController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4458085111641F000D87D10 /* CADeviceController.cpp */; };
+		D44580D61116454200D87D10 /* CADevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D44580741116409000D87D10 /* CADevice.h */; };
+		D44580D71116454200D87D10 /* CADevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44580751116409000D87D10 /* CADevice.cpp */; };
+		D44580D81116454300D87D10 /* CADAQDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = D4458078111640C600D87D10 /* CADAQDevice.h */; };
+		D44580D91116454300D87D10 /* CADAQDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D4458079111640C600D87D10 /* CADAQDevice.cpp */; };
+		D44580DA1116454300D87D10 /* CABase.h in Headers */ = {isa = PBXBuildFile; fileRef = D445805A11163EC000D87D10 /* CABase.h */; };
+		D44580DB1116454400D87D10 /* CABase.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445805B11163EC000D87D10 /* CABase.cpp */; };
+		D44580DC1116454500D87D10 /* CAApplication.h in Headers */ = {isa = PBXBuildFile; fileRef = D445807211163FD800D87D10 /* CAApplication.h */; };
+		D44580DD1116454500D87D10 /* CAApplication.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D445807311163FD800D87D10 /* CAApplication.cpp */; };
+		D44584BB111648E300D87D10 /* CoreAcquisition.h in Headers */ = {isa = PBXBuildFile; fileRef = D44584B9111648E300D87D10 /* CoreAcquisition.h */; };
+		D44584BD111648E300D87D10 /* CoreAcquisition.h in Headers */ = {isa = PBXBuildFile; fileRef = D44584B9111648E300D87D10 /* CoreAcquisition.h */; };
+		D44584CB111649CA00D87D10 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806711163F4B00D87D10 /* CoreFoundation.framework */; };
+		D44584CC111649CA00D87D10 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D445806A11163F5E00D87D10 /* IOKit.framework */; };
+		D44584D3111649F600D87D10 /* CAApplicationTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D44584D2111649F600D87D10 /* CAApplicationTest.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D428FF2A1118943100B81CE8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D445804B11163DF500D87D10 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D44580A21116436700D87D10;
+			remoteInfo = CoreAcquisition.Libraries;
+		};
+		D44580A51116436D00D87D10 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D445804B11163DF500D87D10 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D445808F1116431400D87D10;
+			remoteInfo = CoreAcquisition.dylib;
+		};
+		D44580A71116436D00D87D10 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D445804B11163DF500D87D10 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D445809B1116434000D87D10;
+			remoteInfo = CoreAcquisition;
+		};
+		D44584CD111649D000D87D10 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D445804B11163DF500D87D10 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D44584C5111649AD00D87D10;
+			remoteInfo = CAApplicationTest;
+		};
+		D44584CF111649D800D87D10 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D445804B11163DF500D87D10 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D44580A21116436700D87D10;
+			remoteInfo = CoreAcquisition.Libraries;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D411FEB9111664CB0056A1BE /* CAApplicationDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAApplicationDelegate.h; sourceTree = "<group>"; };
+		D411FEBA111664CB0056A1BE /* CAApplicationDelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAApplicationDelegate.cpp; sourceTree = "<group>"; };
+		D411FEEC111668E50056A1BE /* CADelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADelegate.h; sourceTree = "<group>"; };
+		D411FEED111668E50056A1BE /* CADelegate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADelegate.cpp; sourceTree = "<group>"; };
+		D445805A11163EC000D87D10 /* CABase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CABase.h; sourceTree = "<group>"; };
+		D445805B11163EC000D87D10 /* CABase.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CABase.cpp; sourceTree = "<group>"; };
+		D445806711163F4B00D87D10 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = /System/Library/Frameworks/CoreFoundation.framework; sourceTree = "<absolute>"; };
+		D445806A11163F5E00D87D10 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = /System/Library/Frameworks/IOKit.framework; sourceTree = "<absolute>"; };
+		D445807011163FCC00D87D10 /* CAObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAObject.h; sourceTree = "<group>"; };
+		D445807111163FCC00D87D10 /* CAObject.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAObject.cpp; sourceTree = "<group>"; };
+		D445807211163FD800D87D10 /* CAApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAApplication.h; sourceTree = "<group>"; };
+		D445807311163FD800D87D10 /* CAApplication.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAApplication.cpp; sourceTree = "<group>"; };
+		D44580741116409000D87D10 /* CADevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADevice.h; sourceTree = "<group>"; };
+		D44580751116409000D87D10 /* CADevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADevice.cpp; sourceTree = "<group>"; };
+		D4458076111640B200D87D10 /* CAHIDDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAHIDDevice.h; sourceTree = "<group>"; };
+		D4458077111640B200D87D10 /* CAHIDDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAHIDDevice.cpp; sourceTree = "<group>"; };
+		D4458078111640C600D87D10 /* CADAQDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADAQDevice.h; sourceTree = "<group>"; };
+		D4458079111640C600D87D10 /* CADAQDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADAQDevice.cpp; sourceTree = "<group>"; };
+		D445807A1116411000D87D10 /* CALabJackDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CALabJackDevice.h; sourceTree = "<group>"; };
+		D445807B1116411000D87D10 /* CALabJackDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CALabJackDevice.cpp; sourceTree = "<group>"; };
+		D445807C1116413000D87D10 /* CANIDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CANIDevice.h; sourceTree = "<group>"; };
+		D445807D1116413000D87D10 /* CANIDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CANIDevice.cpp; sourceTree = "<group>"; };
+		D445807E1116415700D87D10 /* CAPCIDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAPCIDevice.h; sourceTree = "<group>"; };
+		D445807F1116415700D87D10 /* CAPCIDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAPCIDevice.cpp; sourceTree = "<group>"; };
+		D44580801116417C00D87D10 /* CAUSBDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAUSBDevice.h; sourceTree = "<group>"; };
+		D44580811116417C00D87D10 /* CAUSBDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAUSBDevice.cpp; sourceTree = "<group>"; };
+		D4458082111641B900D87D10 /* CAFireWireDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAFireWireDevice.h; sourceTree = "<group>"; };
+		D4458083111641B900D87D10 /* CAFireWireDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAFireWireDevice.cpp; sourceTree = "<group>"; };
+		D4458084111641F000D87D10 /* CADeviceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADeviceController.h; sourceTree = "<group>"; };
+		D4458085111641F000D87D10 /* CADeviceController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADeviceController.cpp; sourceTree = "<group>"; };
+		D44580861116422500D87D10 /* CAPlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAPlugin.h; sourceTree = "<group>"; };
+		D44580871116422500D87D10 /* CAPlugin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAPlugin.cpp; sourceTree = "<group>"; };
+		D44580881116424500D87D10 /* CAPluginController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CAPluginController.h; sourceTree = "<group>"; };
+		D44580891116424500D87D10 /* CAPluginController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAPluginController.cpp; sourceTree = "<group>"; };
+		D445808A1116426A00D87D10 /* CADevicePlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CADevicePlugin.h; sourceTree = "<group>"; };
+		D445808B1116426A00D87D10 /* CADevicePlugin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CADevicePlugin.cpp; sourceTree = "<group>"; };
+		D44580901116431400D87D10 /* libCoreAcquisition.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libCoreAcquisition.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		D445809C1116434000D87D10 /* libCoreAcquisition.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCoreAcquisition.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		D44584B9111648E300D87D10 /* CoreAcquisition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreAcquisition.h; sourceTree = "<group>"; };
+		D44584C6111649AD00D87D10 /* CAApplicationTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CAApplicationTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D44584D2111649F600D87D10 /* CAApplicationTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CAApplicationTest.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D445808E1116431400D87D10 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D44580951116432600D87D10 /* CoreFoundation.framework in Frameworks */,
+				D44580961116432600D87D10 /* IOKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D445809A1116434000D87D10 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D445809F1116435000D87D10 /* CoreFoundation.framework in Frameworks */,
+				D44580A01116435000D87D10 /* IOKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D44584C4111649AD00D87D10 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D42800631118D73A00B81CE8 /* libCoreAcquisition.dylib in Frameworks */,
+				D44584CB111649CA00D87D10 /* CoreFoundation.framework in Frameworks */,
+				D44584CC111649CA00D87D10 /* IOKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D445804911163DF500D87D10 = {
+			isa = PBXGroup;
+			children = (
+				D44584B9111648E300D87D10 /* CoreAcquisition.h */,
+				D445805411163DFF00D87D10 /* Base */,
+				D445805511163E0F00D87D10 /* Devices */,
+				D445805C11163EE100D87D10 /* Test */,
+				D445806611163F3600D87D10 /* Libraries & Frameworks */,
+				D44580911116431400D87D10 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D445805411163DFF00D87D10 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				D445805A11163EC000D87D10 /* CABase.h */,
+				D445805B11163EC000D87D10 /* CABase.cpp */,
+				D445807011163FCC00D87D10 /* CAObject.h */,
+				D445807111163FCC00D87D10 /* CAObject.cpp */,
+				D445807211163FD800D87D10 /* CAApplication.h */,
+				D445807311163FD800D87D10 /* CAApplication.cpp */,
+				D44580861116422500D87D10 /* CAPlugin.h */,
+				D44580871116422500D87D10 /* CAPlugin.cpp */,
+				D44580881116424500D87D10 /* CAPluginController.h */,
+				D44580891116424500D87D10 /* CAPluginController.cpp */,
+				D411FEEC111668E50056A1BE /* CADelegate.h */,
+				D411FEED111668E50056A1BE /* CADelegate.cpp */,
+				D411FEB9111664CB0056A1BE /* CAApplicationDelegate.h */,
+				D411FEBA111664CB0056A1BE /* CAApplicationDelegate.cpp */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		D445805511163E0F00D87D10 /* Devices */ = {
+			isa = PBXGroup;
+			children = (
+				D44580741116409000D87D10 /* CADevice.h */,
+				D44580751116409000D87D10 /* CADevice.cpp */,
+				D4458084111641F000D87D10 /* CADeviceController.h */,
+				D4458085111641F000D87D10 /* CADeviceController.cpp */,
+				D445808A1116426A00D87D10 /* CADevicePlugin.h */,
+				D445808B1116426A00D87D10 /* CADevicePlugin.cpp */,
+				D445807E1116415700D87D10 /* CAPCIDevice.h */,
+				D445807F1116415700D87D10 /* CAPCIDevice.cpp */,
+				D44580801116417C00D87D10 /* CAUSBDevice.h */,
+				D44580811116417C00D87D10 /* CAUSBDevice.cpp */,
+				D4458082111641B900D87D10 /* CAFireWireDevice.h */,
+				D4458083111641B900D87D10 /* CAFireWireDevice.cpp */,
+				D445805711163E2900D87D10 /* HID */,
+				D445805611163E1800D87D10 /* DAQ */,
+			);
+			path = Devices;
+			sourceTree = "<group>";
+		};
+		D445805611163E1800D87D10 /* DAQ */ = {
+			isa = PBXGroup;
+			children = (
+				D4458078111640C600D87D10 /* CADAQDevice.h */,
+				D4458079111640C600D87D10 /* CADAQDevice.cpp */,
+				D445805911163E3C00D87D10 /* LabJack */,
+				D445805811163E3000D87D10 /* National Instruments */,
+			);
+			path = DAQ;
+			sourceTree = "<group>";
+		};
+		D445805711163E2900D87D10 /* HID */ = {
+			isa = PBXGroup;
+			children = (
+				D4458076111640B200D87D10 /* CAHIDDevice.h */,
+				D4458077111640B200D87D10 /* CAHIDDevice.cpp */,
+			);
+			path = HID;
+			sourceTree = "<group>";
+		};
+		D445805811163E3000D87D10 /* National Instruments */ = {
+			isa = PBXGroup;
+			children = (
+				D445807C1116413000D87D10 /* CANIDevice.h */,
+				D445807D1116413000D87D10 /* CANIDevice.cpp */,
+			);
+			path = "National Instruments";
+			sourceTree = "<group>";
+		};
+		D445805911163E3C00D87D10 /* LabJack */ = {
+			isa = PBXGroup;
+			children = (
+				D445807A1116411000D87D10 /* CALabJackDevice.h */,
+				D445807B1116411000D87D10 /* CALabJackDevice.cpp */,
+			);
+			path = LabJack;
+			sourceTree = "<group>";
+		};
+		D445805C11163EE100D87D10 /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				D44584D2111649F600D87D10 /* CAApplicationTest.cpp */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		D445806611163F3600D87D10 /* Libraries & Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D445806711163F4B00D87D10 /* CoreFoundation.framework */,
+				D445806A11163F5E00D87D10 /* IOKit.framework */,
+			);
+			name = "Libraries & Frameworks";
+			sourceTree = "<group>";
+		};
+		D44580911116431400D87D10 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D44580901116431400D87D10 /* libCoreAcquisition.dylib */,
+				D445809C1116434000D87D10 /* libCoreAcquisition.a */,
+				D44584C6111649AD00D87D10 /* CAApplicationTest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D445808C1116431400D87D10 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D44580C01116453200D87D10 /* CAUSBDevice.h in Headers */,
+				D44580C21116453300D87D10 /* CAPluginController.h in Headers */,
+				D44580C41116453400D87D10 /* CAPlugin.h in Headers */,
+				D44580C61116453600D87D10 /* CAPCIDevice.h in Headers */,
+				D44580C81116453600D87D10 /* CAObject.h in Headers */,
+				D44580CA1116453800D87D10 /* CANIDevice.h in Headers */,
+				D44580CC1116453B00D87D10 /* CALabJackDevice.h in Headers */,
+				D44580CE1116453C00D87D10 /* CAHIDDevice.h in Headers */,
+				D44580D01116453D00D87D10 /* CAFireWireDevice.h in Headers */,
+				D44580D21116453E00D87D10 /* CADevicePlugin.h in Headers */,
+				D44580D41116453F00D87D10 /* CADeviceController.h in Headers */,
+				D44580D61116454200D87D10 /* CADevice.h in Headers */,
+				D44580D81116454300D87D10 /* CADAQDevice.h in Headers */,
+				D44580DA1116454300D87D10 /* CABase.h in Headers */,
+				D44580DC1116454500D87D10 /* CAApplication.h in Headers */,
+				D44584BB111648E300D87D10 /* CoreAcquisition.h in Headers */,
+				D411FEBD111664CB0056A1BE /* CAApplicationDelegate.h in Headers */,
+				D411FEEE111668E50056A1BE /* CADelegate.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D44580981116434000D87D10 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D44584BD111648E300D87D10 /* CoreAcquisition.h in Headers */,
+				D411FEBB111664CB0056A1BE /* CAApplicationDelegate.h in Headers */,
+				D411FEF0111668E50056A1BE /* CADelegate.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D445808F1116431400D87D10 /* CoreAcquisition.dylib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D44580941116431500D87D10 /* Build configuration list for PBXNativeTarget "CoreAcquisition.dylib" */;
+			buildPhases = (
+				D445808C1116431400D87D10 /* Headers */,
+				D445808D1116431400D87D10 /* Sources */,
+				D445808E1116431400D87D10 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CoreAcquisition.dylib;
+			productName = CoreAcquisition;
+			productReference = D44580901116431400D87D10 /* libCoreAcquisition.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+		D445809B1116434000D87D10 /* CoreAcquisition */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D44580A9111643A900D87D10 /* Build configuration list for PBXNativeTarget "CoreAcquisition" */;
+			buildPhases = (
+				D44580981116434000D87D10 /* Headers */,
+				D44580991116434000D87D10 /* Sources */,
+				D445809A1116434000D87D10 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CoreAcquisition;
+			productName = CoreAcquisition;
+			productReference = D445809C1116434000D87D10 /* libCoreAcquisition.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		D44584C5111649AD00D87D10 /* CAApplicationTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D44584D4111649F600D87D10 /* Build configuration list for PBXNativeTarget "CAApplicationTest" */;
+			buildPhases = (
+				D44584C3111649AD00D87D10 /* Sources */,
+				D44584C4111649AD00D87D10 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D428FF2B1118943100B81CE8 /* PBXTargetDependency */,
+			);
+			name = CAApplicationTest;
+			productName = CAApplicationTest;
+			productReference = D44584C6111649AD00D87D10 /* CAApplicationTest */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D445804B11163DF500D87D10 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+			};
+			buildConfigurationList = D445804E11163DF500D87D10 /* Build configuration list for PBXProject "CoreAcquisition" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 0;
+			mainGroup = D445804911163DF500D87D10;
+			productRefGroup = D44580911116431400D87D10 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D44580A21116436700D87D10 /* CoreAcquisition.Libraries */,
+				D445808F1116431400D87D10 /* CoreAcquisition.dylib */,
+				D445809B1116434000D87D10 /* CoreAcquisition */,
+				D44584BF1116498D00D87D10 /* CATestFiles */,
+				D44584C5111649AD00D87D10 /* CAApplicationTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D445808D1116431400D87D10 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D44580C11116453300D87D10 /* CAUSBDevice.cpp in Sources */,
+				D44580C31116453400D87D10 /* CAPluginController.cpp in Sources */,
+				D44580C51116453500D87D10 /* CAPlugin.cpp in Sources */,
+				D44580C71116453600D87D10 /* CAPCIDevice.cpp in Sources */,
+				D44580C91116453700D87D10 /* CAObject.cpp in Sources */,
+				D44580CB1116453A00D87D10 /* CANIDevice.cpp in Sources */,
+				D44580CD1116453B00D87D10 /* CALabJackDevice.cpp in Sources */,
+				D44580CF1116453C00D87D10 /* CAHIDDevice.cpp in Sources */,
+				D44580D11116453D00D87D10 /* CAFireWireDevice.cpp in Sources */,
+				D44580D31116453E00D87D10 /* CADevicePlugin.cpp in Sources */,
+				D44580D51116454100D87D10 /* CADeviceController.cpp in Sources */,
+				D44580D71116454200D87D10 /* CADevice.cpp in Sources */,
+				D44580D91116454300D87D10 /* CADAQDevice.cpp in Sources */,
+				D44580DB1116454400D87D10 /* CABase.cpp in Sources */,
+				D44580DD1116454500D87D10 /* CAApplication.cpp in Sources */,
+				D411FEBE111664CB0056A1BE /* CAApplicationDelegate.cpp in Sources */,
+				D411FEEF111668E50056A1BE /* CADelegate.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D44580991116434000D87D10 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D411FEBC111664CB0056A1BE /* CAApplicationDelegate.cpp in Sources */,
+				D411FEF1111668E50056A1BE /* CADelegate.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D44584C3111649AD00D87D10 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D44584D3111649F600D87D10 /* CAApplicationTest.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D428FF2B1118943100B81CE8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D44580A21116436700D87D10 /* CoreAcquisition.Libraries */;
+			targetProxy = D428FF2A1118943100B81CE8 /* PBXContainerItemProxy */;
+		};
+		D44580A61116436D00D87D10 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D445808F1116431400D87D10 /* CoreAcquisition.dylib */;
+			targetProxy = D44580A51116436D00D87D10 /* PBXContainerItemProxy */;
+		};
+		D44580A81116436D00D87D10 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D445809B1116434000D87D10 /* CoreAcquisition */;
+			targetProxy = D44580A71116436D00D87D10 /* PBXContainerItemProxy */;
+		};
+		D44584CE111649D000D87D10 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D44584C5111649AD00D87D10 /* CAApplicationTest */;
+			targetProxy = D44584CD111649D000D87D10 /* PBXContainerItemProxy */;
+		};
+		D44584D0111649D800D87D10 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D44580A21116436700D87D10 /* CoreAcquisition.Libraries */;
+			targetProxy = D44584CF111649D800D87D10 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D445804C11163DF500D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = NO;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GENERATE_PROFILING_CODE = YES;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = build;
+				LIBRARY_SEARCH_PATHS = "./**";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+			};
+			name = Debug;
+		};
+		D445804D11163DF500D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEPLOYMENT_LOCATION = NO;
+				GCC_ALTIVEC_EXTENSIONS = YES;
+				GCC_CHECK_RETURN_VALUE_OF_OPERATOR_NEW = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = YES;
+				"GCC_MODEL_PPC64[arch=i386]" = NO;
+				"GCC_MODEL_PPC64[arch=ppc64]" = YES;
+				"GCC_MODEL_PPC64[arch=ppc]" = NO;
+				"GCC_MODEL_PPC64[arch=x86_64]" = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GENERATE_PROFILING_CODE = NO;
+				INCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = build;
+				LIBRARY_SEARCH_PATHS = "./**";
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+			};
+			name = Release;
+		};
+		D44580921116431500D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = NO;
+				EXECUTABLE_PREFIX = lib;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PREBINDING = YES;
+				PRODUCT_NAME = CoreAcquisition;
+			};
+			name = Debug;
+		};
+		D44580931116431500D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				PREBINDING = YES;
+				PRODUCT_NAME = CoreAcquisition;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		D445809D1116434100D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/lib;
+				PREBINDING = NO;
+				PRODUCT_NAME = CoreAcquisition;
+			};
+			name = Debug;
+		};
+		D445809E1116434100D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/lib;
+				PREBINDING = NO;
+				PRODUCT_NAME = CoreAcquisition;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		D44580A31116436700D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = CoreAcquisition.Libraries;
+			};
+			name = Debug;
+		};
+		D44580A41116436700D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = CoreAcquisition.Libraries;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		D44584C01116498D00D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = CATestFiles;
+			};
+			name = Debug;
+		};
+		D44584C11116498D00D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = CATestFiles;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		D44584C8111649AE00D87D10 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				LD_GENERATE_MAP_FILE = NO;
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/build/Debug/**",
+					"./**",
+				);
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/build/Debug\"";
+				OTHER_LDFLAGS = "-lCoreAcquisition";
+				PREBINDING = NO;
+				PRODUCT_NAME = CAApplicationTest;
+			};
+			name = Debug;
+		};
+		D44584C9111649AE00D87D10 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LD_GENERATE_MAP_FILE = NO;
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/build/Debug/**",
+					"./**",
+				);
+				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/build/Debug\"";
+				OTHER_LDFLAGS = "-lCoreAcquisition";
+				PREBINDING = NO;
+				PRODUCT_NAME = CAApplicationTest;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D445804E11163DF500D87D10 /* Build configuration list for PBXProject "CoreAcquisition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D445804C11163DF500D87D10 /* Debug */,
+				D445804D11163DF500D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D44580941116431500D87D10 /* Build configuration list for PBXNativeTarget "CoreAcquisition.dylib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D44580921116431500D87D10 /* Debug */,
+				D44580931116431500D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D44580A9111643A900D87D10 /* Build configuration list for PBXNativeTarget "CoreAcquisition" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D445809D1116434100D87D10 /* Debug */,
+				D445809E1116434100D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D44580AA111643A900D87D10 /* Build configuration list for PBXAggregateTarget "CoreAcquisition.Libraries" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D44580A31116436700D87D10 /* Debug */,
+				D44580A41116436700D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D44584C2111649AB00D87D10 /* Build configuration list for PBXAggregateTarget "CATestFiles" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D44584C01116498D00D87D10 /* Debug */,
+				D44584C11116498D00D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D44584D4111649F600D87D10 /* Build configuration list for PBXNativeTarget "CAApplicationTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D44584C8111649AE00D87D10 /* Debug */,
+				D44584C9111649AE00D87D10 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D445804B11163DF500D87D10 /* Project object */;
+}
